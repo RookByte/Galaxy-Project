@@ -10,7 +10,7 @@ This repository showcases my journey of exploring, analyzing, and modeling galax
   - For consistent debiasing of the GZ2 question tree, the site strongly recommends the use of the **Hart et al. (2016) table**. ✅  
 - **Galaxy Images**: ~200 images collected from **[Kaggle Galaxy Zoo 2 Images](https://www.kaggle.com/datasets/jaimetrickz/galaxy-zoo-2-images)** 🖼️  
 - Data has been carefully cleaned, preprocessed, and organized for analysis and modeling. ✨
-- Additionally, i put the determinded data files that i worked on in this repository.
+- Additionally, I put the determinded data files that i worked on in this repository.
 
 ---
 
