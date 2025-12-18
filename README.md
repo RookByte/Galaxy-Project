@@ -7,7 +7,7 @@ This repository showcases my journey of exploring, analyzing, and modeling galax
 ## 🗄️ Dataset
 
 - **Galaxy Features (CSV)**: Obtained from the official **[Galaxy Zoo 2](https://data.galaxyzoo.org/)** dataset 🌌  
-  - For consistent debiasing of the GZ2 question tree, the site strongly recommends the use of the **Hart et al. (2016) table**. ✅  
+  - For consistent debiasing of the GZ2 question tree, the site strongly recommends the use of the **[Hart et al. (2016)](https://mnras.oxfordjournals.org/content/461/4/3663)**. ✅  
 - **Galaxy Images**: ~200 images collected from **[Kaggle Galaxy Zoo 2 Images](https://www.kaggle.com/datasets/jaimetrickz/galaxy-zoo-2-images)** 🖼️  
 - Data has been carefully cleaned, preprocessed, and organized for analysis and modeling. ✨
 - Additionally, I put the determinded data files that i worked on in this repository.
