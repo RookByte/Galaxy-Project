@@ -18,7 +18,7 @@ This repository showcases my journey of exploring, analyzing, and modeling galax
 
 - **Jupyter Notebooks**:  
   - **Data Analysis**: Exploratory analysis with charts, visualizations, and insights 📈  
-  - **Model Experiments**: Tried multiple predictive models for galaxy Moorphology, including performance comparison of each model 💡  
+  - **Model Experiments**: Tried multiple predictive models for galaxy Morphology, including performance comparison of each model 💡  
   - **Conditional Autoencoder**: Initial experiments to generate new galaxy images using a conditional autoencoder 🪐  
     - **Note**: GPU memory limitations restricted training with larger batch sizes, so this part is a work in progress 🚧  
 
