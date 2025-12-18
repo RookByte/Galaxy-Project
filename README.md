@@ -28,7 +28,8 @@ This repository showcases my journey of exploring, analyzing, and modeling galax
 
 - Python   
 - PyTorch
-- Pandas & NumPy 
+- Pandas & NumPy
+- Pillow
 - Matplotlib & Seaborn    
  
 ---
